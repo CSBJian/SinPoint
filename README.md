@@ -1,7 +1,7 @@
 # SinPoint
 
 <div align="center">
-  <img src="images/augments.png.png" width="650px" height="300px">
+  <img src="images/augments.png" width="650px" height="300px">
 </div>
 
 Augmented point clouds using SinPoint. In each row, the left-most sample is the original, and the remaining samples are its transformed results. Our SinPoint can generate high-fidelity and diverse data samples.
