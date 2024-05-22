@@ -1,0 +1,19 @@
+checkpoint:	 checkpoints/DGCNN-DGCNNSMTDropf3-1
+msg:	 DGCNNSMTDropf3
+batch_size:	 32
+model:	 DGCNN
+epoch:	 250
+num_points:	 1024
+learning_rate:	 0.1
+min_lr:	 0.001
+weight_decay:	 0.0001
+seed:	 1
+workers:	 8
+last:	 
+rand_center_num:	 0
+alphamin:	 -0.5
+alphamax:	 0.5
+f:	 3
+sample:	 random
+isCat:	 True
+shuffle:	 True
