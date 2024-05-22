@@ -49,12 +49,3 @@ bash train.sh
 # please add other paramemters as you wish.
 ```
 By default, it will create a fold named "checkpoints/{modelName}-{msg}-{randomseed}", which includes args.txt, best_checkpoint.pth, last_checkpoint.pth, log.txt, out.txt.
-
-## Acknowledgment
-
-Our implementation is mainly based on the following codebases. We gratefully thank the authors for their wonderful works.
-
-[CurveNet](https://github.com/tiangexiang/CurveNet),
-[PointMLP](https://github.com/ma-xu/pointMLP-pytorch),
-[GDANet](https://github.com/mutianxu/GDANet),
-[Pointnet2_PyTorch](https://github.com/erikwijmans/Pointnet2_PyTorch)
